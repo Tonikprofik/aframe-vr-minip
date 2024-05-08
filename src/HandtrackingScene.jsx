@@ -42,11 +42,11 @@ function HandTrackingScene() {
     return (
         <Scene oculus-hand-tracking>
             <a-assets>
-                <img id="starrySky" src="starrySkyTexture.wbp"/>
-                <img id="auroraTexture" src="auroraTexture.wbp"/>
-                <img id="woodTexture" src="woodTexture.wbp"/>
-                <img id="sandTexture" src="sandTexture.wbp"/>
-                <img id="marbleTexture" src="marbleTexture.wbp"/>
+                <img id="starrySky" src="starrySkyTexture.webp"/>
+                <img id="auroraTexture" src="auroraTexture.webp"/>
+                <img id="woodTexture" src="woodTexture.webp"/>
+                <img id="sandTexture" src="sandTexture.webp"/>
+                <img id="marbleTexture" src="marbleTexture.webp"/>
             </a-assets>
             
             <Entity primitive="a-sky" src="#starrySky" />
